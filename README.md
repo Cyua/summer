@@ -16,7 +16,7 @@ just for studying
 
 * first
   * second
-    * third  
+    * third    
 >test0
 >>test1
 >>>test2
