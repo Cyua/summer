@@ -5,11 +5,11 @@ summer
 ****
 just for studying
 -------
-    this is just a test  
+    this is normal text  
 ### test0
   
 ---
-`highlight`
+`highlight`  
 [just a hyperlink](www.baidu.com "what's it like")
 * hello
 * world
