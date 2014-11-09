@@ -24,4 +24,12 @@ just for studying
 
 ~~delete me~~
 
-**I'm strong!**
+**I'm strong!**  
+```c
+    int main(void){
+    int test;
+    printf("This is just a test\n");
+    return 0;
+    }
+    
+
