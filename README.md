@@ -1,5 +1,6 @@
 summer
 ======
 
-just for studying<br>
-this is just a test
+just for studying
+-------
+    this is just a test
