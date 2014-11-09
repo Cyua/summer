@@ -17,9 +17,9 @@ just for studying
 * first
   * second
     * third    
->test0
->>test1
->>>test2
+>test0  
+>>test1  
+>>>test2  
 
 ~~delete me~~
 
