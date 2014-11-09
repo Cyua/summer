@@ -11,6 +11,6 @@ just for studying
 ---
 `highlight`
 [just a hyperlink](www.baidu.com "what's it like")
-*hello
-*world
+* hello
+* world
 
